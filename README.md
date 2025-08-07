@@ -1,7 +1,7 @@
 # MineX1.16-5
 Now is creating
 
-Nether Update!!(Ancient Devlis,and more!)
+Nether Update!!(Ancient Deblis,and more!)
 
 New mobs (Pillager,Drownd,Phantom and more!)
 
@@ -14,6 +14,8 @@ NewTexture!
 HotUI!(Eaglermode,Javamode,Bedrockmode!)
 
 New Ores(Amethyst,Netherite)
+
+Can Use with Mod and Addons!
 
 This MineX can Connect EagkerXServer!
 
