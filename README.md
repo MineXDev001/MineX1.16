@@ -17,6 +17,6 @@ New Ores(Amethyst,Netherite)
 
 Can Use with Mod and Addons!
 
-This MineX can Connect EagkerXServer!
+This MineX can Connect and Open LANNetworkServer!
 
 yea,This Project is not fake!That's real!
