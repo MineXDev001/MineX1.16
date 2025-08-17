@@ -1,7 +1,9 @@
-# MineX1.16-5
+# MineX1.20-6
 Now is creating
 
 Nether Update!!(Ancient Deblis,and more!)
+
+Caves Update!!(Ancient City,Amethyst Biome,trial chamber, and more!)
 
 New mobs (Pillager,Drownd,Phantom and more!)
 
@@ -14,6 +16,8 @@ NewTexture!
 HotUI!(Eaglermode,Javamode,Bedrockmode!)
 
 New Ores(Amethyst,Netherite)
+
+New Biomes!
 
 Can Use with Mod and Addons!
 
